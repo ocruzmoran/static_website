@@ -2,5 +2,6 @@ baseURL = "https://ocruzmoran.github.io/static_website/"
 #baseURL = "http://localhost/"
 languageCode = "en-us"
 title = "MSIG XXI - My New Hugo Site"
-publishDir = "docs"
 theme = "ananke"
+publishDir = "docs"
+

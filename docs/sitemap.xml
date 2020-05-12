@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost/</loc>
+    <loc>https://ocruzmoran.github.io/static_website/</loc>
     <lastmod>2020-05-11T21:48:36-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/posts/my-first-post/</loc>
+    <loc>https://ocruzmoran.github.io/static_website/posts/my-first-post/</loc>
     <lastmod>2020-05-11T21:48:36-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/posts/</loc>
+    <loc>https://ocruzmoran.github.io/static_website/posts/</loc>
     <lastmod>2020-05-11T21:48:36-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/categories/</loc>
+    <loc>https://ocruzmoran.github.io/static_website/categories/</loc>
   </url>
   
   <url>
-    <loc>http://localhost/tags/</loc>
+    <loc>https://ocruzmoran.github.io/static_website/tags/</loc>
   </url>
   
 </urlset>
